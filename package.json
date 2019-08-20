@@ -1,0 +1,49 @@
+{
+  "_from": "react-native-scancode",
+  "_id": "react-native-scancode@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-lX8O+K4LrxGur3+2HXjf3JROUTI=",
+  "_location": "/react-native-scancode",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-scancode",
+    "name": "react-native-scancode",
+    "escapedName": "react-native-scancode",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Txiaomo/react-native-scancode.git"
+  },
+  "_resolved": "https://registry.npm.taobao.org/react-native-scancode/download/react-native-scancode-1.3.7.tgz",
+  "_shasum": "957f0ef8ae0baf11aeaf7fb61d78dfdc944e5132",
+  "_spec": "react-native-scancode",
+  "_where": "F:\\vision\\RNDemo",
+  "author": {
+    "name": "xiaomo"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "## PDA扫描插件",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "PDA扫描插件",
+  "main": "index.js",
+  "name": "react-native-scancode",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
